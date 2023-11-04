@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Junior DevOps Engineer-DevOps-4094ff?style=for-the-badge" alt="Junior DevOps Engineer"/>
 </p>
 
-<p align="center">🌍 Living in Blumenau, Brazil. Passionate about learning new technologies and tackling challenging DevOps projects. Let's automate the world!</p>
+<p align="center"></p>
 
 ## 👨‍💻 About Me
 
@@ -12,10 +12,9 @@
   <tr>
     <td width="60%" style="display: flex; flex-direction: column; justify-content: space-between;">
       <ul>
-        <li>🔭 Completed: <a href=""></a> and <a href=""></a></li>
-        <li>🌱 Learning: DevOps +Devs2Blu</li>
+        <li>🌍 Living in Blumenau, Brazil. Passionate about learning new technologies and tackling challenging DevOps projects. Let's automate the world!</li>
+        <li>🔭 Completed: <a href=""></a>DevOps +Devs2Blu and Python: Do Zero ao DS<a href=""></a></li>
         <li>🎯 Career Goals: Automate and optimize IT operations, implement CI/CD pipelines, and work on scalable DevOps solutions</li>
-        <li>📖 Currently Reading: <a href=""></a></li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -25,20 +24,42 @@
 </table>
 
 ## 💼 Skills
+<ul>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;">
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;">
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;">
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;">
+<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;">
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;">
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;">
+<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;">
+<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;">
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;">
+<img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;">
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;">
+<img align="left" alt="Composer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="padding-right:10px;">
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;">
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;">
+<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;">
+<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
+<img align="left" alt="Nginx" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;">
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;">
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;">
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;">
+</ul>
+<br/>
+<br/>
 
-<code><img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></code>
-<code><img height="28" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></code>
-<code><img height="28" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></code>
-<code><img height="28" src="https://img.shields.io/badge/Terraform-5C4EE6?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></code>
-<code><img height="28" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></code>
-<code><img height="28" src="https://img.shields.io/badge/CI/CD-FFA000?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD"/></code>
-<code><img height="28" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></code>
+## 🌱 Learning
+
+- 📖 Currently Reading: <a href="https://desconstruindoaweb.com.br/">Desconstruindo a Web: As tecnologias por trás de uma requisição</a>
 
 ## 🚀 Top DevOps Projects
 
-- [dockerize-it]() : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
+- [dockerize-it](https://github.com/EverWS/simple_app_cloud) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
 
-- [automation](): Automate deployment and scaling with scripts and Helm charts.
+- [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
 
 ## ⚡ Current DevOps Endeavors
 
