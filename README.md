@@ -59,7 +59,7 @@
 
 - [dockerize-it](https://github.com/EverWS/simple_app_cloud) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
 
-- [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
+- [automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
 
 ## ⚡ Current DevOps Endeavors
 
