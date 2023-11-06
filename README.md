@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td valign="top" width="40%">
-      <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64dbb4d6095da82caf9749cf?variant=dark" alt="roadmap.sh"/></a>
+      <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64dbb4d6095da82caf9749cf?variant=dark&roadmaps=devops%2Cdocker" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
