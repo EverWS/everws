@@ -37,10 +37,6 @@
 <img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;">
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;">
 <img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;">
-<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;">
-<img align="left" alt="Composer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="padding-right:10px;">
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;">
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;">
 <img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;">
 <img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
 <img align="left" alt="Nginx" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;">
@@ -54,17 +50,17 @@
 ## 🌱 Learning
 
 - 📖 Currently Reading: <a href="https://desconstruindoaweb.com.br/">Desconstruindo a Web: As tecnologias por trás de uma requisição</a>
-
-## 🚀 Top DevOps Projects
-
-- [dockerize-it](https://github.com/EverWS/dockerfiles) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
-
-- [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
-
-## ⚡ Current DevOps Endeavors
-
-- [DevOps-Automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Implementing CI/CD pipelines for multiple applications using Actions  CI/CD and Terraform.
-
+//
+// ## 🚀 Top DevOps Projects
+//
+// - [dockerize-it](https://github.com/EverWS/dockerfiles) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
+//
+// - [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
+//
+// ## ⚡ Current DevOps Endeavors
+//
+// - [DevOps-Automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Implementing CI/CD pipelines for multiple applications using Actions  CI/CD and Terraform.
+//
 ## 📫 Get in Touch:
 
 - [![Linkedin: Everton W. da Silva](https://img.shields.io/badge/-Everton_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-silva-b00b03230/)](https://www.linkedin.com/in/everton-silva-b00b03230/)
