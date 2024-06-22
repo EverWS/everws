@@ -50,17 +50,17 @@
 ## 🌱 Learning
 
 - 📖 Currently Reading: <a href="https://desconstruindoaweb.com.br/">Desconstruindo a Web: As tecnologias por trás de uma requisição</a>
-//
-// ## 🚀 Top DevOps Projects
-//
-// - [dockerize-it](https://github.com/EverWS/dockerfiles) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
-//
-// - [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
-//
-// ## ⚡ Current DevOps Endeavors
-//
-// - [DevOps-Automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Implementing CI/CD pipelines for multiple applications using Actions  CI/CD and Terraform.
-//
+
+ ## 🚀 Top DevOps Projects
+
+ - [dockerize-it](https://github.com/EverWS/dockerfiles) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
+
+- [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
+
+## ⚡ Current DevOps Endeavors
+
+- [DevOps-Automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Implementing CI/CD pipelines for multiple applications using Actions  CI/CD and Terraform.
+
 ## 📫 Get in Touch:
 
 - [![Linkedin: Everton W. da Silva](https://img.shields.io/badge/-Everton_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-silva-b00b03230/)](https://www.linkedin.com/in/everton-silva-b00b03230/)
