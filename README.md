@@ -44,22 +44,9 @@
 <img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;">
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;">
 </ul>
+
 <br/>
 <br/>
-
-## 🌱 Learning
-
-- 📖 Currently Reading: <a href="https://desconstruindoaweb.com.br/">Desconstruindo a Web: As tecnologias por trás de uma requisição</a>
-
- ## 🚀 Top DevOps Projects
-
- - [dockerize-it](https://github.com/EverWS/dockerfiles) : A collection of Dockerfiles for various applications and services. Dockerize your favorite apps with ease.
-
-- [automation](https://github.com/EverWS/challenge_simple_app): Automate deployment and scaling using GitHub Actions, Secrets, scripts and Docker.
-
-## ⚡ Current DevOps Endeavors
-
-- [DevOps-Automation](https://github.com/EverWS/apollo23-devops/tree/main/.github/workflows): Implementing CI/CD pipelines for multiple applications using Actions  CI/CD and Terraform.
 
 ## 📫 Get in Touch:
 
